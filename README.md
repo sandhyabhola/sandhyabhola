@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Sandhyarani Bhola
+#  Hi, I'm Sandhyarani Bhola
 
 ### 2026 CSE Graduate | Aspiring Data Scientist & AI/ML Engineer
 
