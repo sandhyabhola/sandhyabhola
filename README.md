@@ -230,10 +230,21 @@ Building deployable AI services using FastAPI, Docker and cloud platforms.
 </div>
 
 ---
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandhyabhola/sandhyabhola/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandhyabhola/sandhyabhola/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sandhyabhola/sandhyabhola/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
+<!-- <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandhyabhola/sandhyabhola/snake-output/snake-dark.svg">
@@ -241,7 +252,13 @@ Building deployable AI services using FastAPI, Docker and cloud platforms.
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/sandhyabhola/sandhyabhola/snake-output/snake.svg">
 </picture>
 
-</div>
+</div> -->
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/sandhyabhola/sandhyabhola/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ---
 
