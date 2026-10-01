@@ -223,12 +223,22 @@ Building deployable AI services using FastAPI, Docker and cloud platforms.
 
 ## 📈 Contribution Activity
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandhyabhola&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 
+</div> -->
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/sandhyabhola/sandhyabhola/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+###
+
+
+
+## 🐍 Contribution Snake
 ---
 ###
 
@@ -241,8 +251,6 @@ Building deployable AI services using FastAPI, Docker and cloud platforms.
 ###
 
 ---
-
-## 🐍 Contribution Snake
 
 <!-- <div align="center">
 
