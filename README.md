@@ -281,9 +281,6 @@ Building deployable AI services using FastAPI, Docker and cloud platforms.
 
 <br><br>
 
-<a href="https://github.com/sandhyabhola">
-  <img src="https://img.shields.io/badge/GitHub-Sandhyarani%20Bhola-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
 
 <a href="https://www.linkedin.com/in/sandhyarani-bhola-030b79265">
   <img src="https://img.shields.io/badge/LinkedIn-Sandhyarani%20Bhola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
