@@ -213,11 +213,12 @@ Building deployable AI services using FastAPI, Docker and cloud platforms.
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=sandhyabhola&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 
-</div>
+</div> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=sandhyabhola&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
