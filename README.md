@@ -68,9 +68,31 @@ I'm a **2026 Computer Science Engineering graduate** focused on building practic
 
 **Machine Learning • Deep Learning • Computer Vision • Neural Networks**
 
-### ✨ Generative AI
+### 🧠 Generative AI & Large Language Models
 
-**Generative AI • LLMs • RAG • Embeddings • Vector Search • Prompt Engineering • Agentic AI**
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=google&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Large Language Models"/>
+  <img src="https://img.shields.io/badge/RAG-0A9396?style=for-the-badge&logo=databricks&logoColor=white" alt="Retrieval Augmented Generation"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq API"/>
+</p>
+
+**Core Concepts & Techniques**
+
+* 🧠 Large Language Models (LLMs)
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🧩 Text Embeddings & Semantic Search
+* 🗃️ Vector Search & Document Retrieval
+* 💬 Prompt Engineering
+* 📄 Document Processing & Intelligent Question Answering
+* 🤖 Exploring Agentic AI
+
+**Building:** LLM-powered applications that combine document retrieval, language models, and backend APIs to answer questions using relevant information.
+
 
 ### 🚀 Backend & Deployment
 
