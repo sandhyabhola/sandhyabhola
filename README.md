@@ -50,26 +50,6 @@ I'm a **2026 Computer Science Engineering graduate** focused on building practic
 
 ---
 
-## 🧠 AI / ML Focus
-
-```text
-Data Science
-      ↓
-Python → NumPy → Pandas → SQL → EDA
-      ↓
-Machine Learning → Scikit-learn
-      ↓
-Deep Learning → Neural Networks → Computer Vision
-      ↓
-Generative AI → LLMs → RAG
-      ↓
-Agentic AI → AI Agents → Intelligent Systems
-      ↓
-FastAPI → Docker → Cloud Deployment
-```
-
----
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming & Data
@@ -110,79 +90,6 @@ FastAPI → Docker → Cloud Deployment
 
 ---
 
-## 🚀 What I'm Building
-
-### 📊 Data Science & Machine Learning
-
-* Exploratory Data Analysis
-* Feature Engineering
-* Machine Learning models
-* Model evaluation and interpretation
-
-### 🤖 AI & Deep Learning
-
-* Neural Network applications
-* Computer Vision systems
-* NLP applications
-* Deep Learning projects
-
-### ✨ Generative AI
-
-* RAG systems
-* Multilingual document understanding
-* LLM-powered applications
-* AI-powered backend systems
-* Agentic AI experiments
-
-### ☁️ Production & Deployment
-
-* FastAPI AI backends
-* Dockerized applications
-* Cloud deployment
-* End-to-end AI applications
-
----
-
-## 📌 Featured Areas
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 Machine Learning
-
-Building ML solutions from data preprocessing and EDA to model training and evaluation.
-
-</td>
-<td width="50%">
-
-### ✨ Generative AI
-
-Working with LLMs, RAG, embeddings, retrieval and AI-powered applications.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 👁️ Computer Vision
-
-Exploring image classification, OpenCV and deep-learning-based vision systems.
-
-</td>
-<td width="50%">
-
-### 🚀 AI Backend
-
-Building deployable AI services using FastAPI, Docker and cloud platforms.
-
-</td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -208,18 +115,6 @@ Building deployable AI services using FastAPI, Docker and cloud platforms.
 </a>
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<!-- <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sandhyabhola&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div> -->
-
-
 ---
 
 ## 📈 Contribution Activity
